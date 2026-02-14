@@ -1,15 +1,17 @@
 # Hi, I'm Adil Khan 👋
 
-**Student | Aspiring Developer | Full Stack and Blockchain enthusiast**
+**Student | Aspiring Developer | AI-ML and Blockchain enthusiast**
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-- Python, C++, C
-- Node.js, Express.js, MongoDB
-- React.js, JavaScript
-- Machine Learning (pandas, numpy, scikit-learn, matplotlib)
+- Python, C++, C, Java
+- Node.js, Express.js, MongoDB, MySQL
+- HTML, React.js, JavaScript
+- Machine Learning (pandas, numpy, scikit-learn, matplotlib, seaborn)
+- Natural Language Processing (nltk)
+- Deep Learning (Neural networks, TensorFlow, PyTorch)
 
 ---
 
